@@ -25,7 +25,7 @@ densita_path = os.path.join(here, "densita_sun.py")
 if not os.path.exists(densita_path):
     # Se il file non esiste, prova comunque un import "normale" per un messaggio più informativo
     try:
-        from densita_sun import dsun, make_PD, _is_simdefpos  # pragma: no cover
+        from SUN.densita_sun import dsun, make_PD, _is_simdefpos  # pragma: no cover
     except Exception as e:
         raise ImportError(
             f"densita_sun.py non trovato in {here} e import semplice fallito: {e}"
