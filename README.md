@@ -6,3 +6,9 @@ La versione con la spiegazione in inglese sarà disponibile a breve.
 The repository contains the codes used to write the final paper for the statistics course for technology and science at the University of Padua. The paper is entitled “Python packages for asymmetric normal distribution: comparative analysis with R and proposal for an integrated approach".
 The codes also contain parts that were not used in the preparation of the paper.
 The version with explanations in English will be available shortly.
+
+Elenco pacchetti e repository utlizzati.
+List of packages and repositories used.
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.skewnorm.html
+https://pypi.org/project/skewt-scipy/#description
+https://github.com/spc90/multivariate_skew_distributions
