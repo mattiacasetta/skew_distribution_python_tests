@@ -38,7 +38,7 @@ if found is None:
     )
 
 # Importa SOLO la versione 'generator' del modello skew-t multivariato (mst).
-from multivariate_skew_t import multivariate_skew_t as mst  # noqa: E402
+from multivariate_skew_distributions.multivariate_skew_t import multivariate_skew_t as mst  # noqa: E402
 
 
 # Griglia dei valori di scala alpha (come nello script R).

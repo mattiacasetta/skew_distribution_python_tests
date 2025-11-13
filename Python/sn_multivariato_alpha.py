@@ -40,7 +40,7 @@ from scipy.optimize import minimize
 # import del generatore/densità SN multivariata (repo locale)
 import sys
 sys.path.append("multivariate_skew_distribution")
-from multivariate_skew_normal import multivariate_skew_normal  # type: ignore
+from multivariate_skew_distributions.multivariate_skew_normal import multivariate_skew_normal  # type: ignore
 
 # Griglia di valori di alpha scalare da testare (stessi valori usati in R)
 ALPHA_GRID = [-4.0, -1.2, -0.2, 0.0, 0.2, 1.2, 4.0]

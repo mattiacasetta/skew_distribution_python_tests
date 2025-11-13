@@ -51,7 +51,7 @@ if found is None:
     )
 
 # Importa SOLO la versione 'generator' del modello skew-t multivariato.
-from multivariate_skew_t import multivariate_skew_t as mst  # modulo locale
+from multivariate_skew_distributions.multivariate_skew_t import multivariate_skew_t as mst  # modulo locale
 
 # Definisce i percorsi per dati, figure, tabelle e log (relativi alla root progetto).
 paths = {
