@@ -7,6 +7,11 @@ The repository contains the codes used to write the final paper for the statisti
 The codes also contain parts that were not used in the preparation of the paper.
 The version with explanations in English will be available shortly.
 
+Pagina ufficiale dell'elaborato.
+Official page of the thesis.
+https://thesis.unipd.it/handle/20.500.12608/98982?mode=simple
+
+
 Elenco pacchetti e repository utlizzati.
 List of packages and repositories used.
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.skewnorm.html
